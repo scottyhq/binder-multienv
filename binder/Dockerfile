@@ -1,1 +1,1 @@
-FROM pangeo/base-notebook:master
+FROM pangeo/pangeo-notebook:master
